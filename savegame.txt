@@ -1,1 +1,8 @@
-
+3
+3
+ yellow,blue,red,
+[['red', 'blue', 'yellow'], ['blue', 'red', 'yellow']]
+2
+['red', 'blue', 'yellow']
+[2, 3]
+[1, 0]
