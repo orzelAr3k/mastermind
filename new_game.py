@@ -16,3 +16,6 @@ def read_me():
         print line
     text_based_interface()
     test_input()
+
+def literable():
+    pass

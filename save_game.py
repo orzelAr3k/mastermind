@@ -24,5 +24,5 @@ def save_game():
     f1.close()
     sys.exit()
 
-def literable(a, b):
+def literable():
     pass
