@@ -23,3 +23,6 @@ def save_game():
     f1.write("%s\n" % blackBoard)
     f1.close()
     sys.exit()
+
+def literable(a, b):
+    pass
