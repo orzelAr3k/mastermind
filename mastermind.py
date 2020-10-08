@@ -1,11 +1,8 @@
-#created by GuanJun(username:jg495)
-#This file include AI function
-
-'''LIBRARY IMPORT'''
+'''LIBRARY IMPORT''' #import bibliotek
 import random
 import sys
 
-'''VARIABLR GLOBAL'''
+'''VARIABLR GLOBAL''' # zmienne globalne
 global pegs
 global colours
 global colourChoice1
